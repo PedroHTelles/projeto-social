@@ -39,7 +39,7 @@ main{
     width: 100%;
     height: 100vh;
     min-height: 630px;
-    min-width: 460px;
+    min-width: 500px;
 
     background-image: url(../imagens/frame-iphone.png);
     background-position: center center;
